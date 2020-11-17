@@ -1,46 +1,74 @@
-# Getting Started with Create React App
+<h1 align="center">
+  Informative COVID-19
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center">
+  Informative COVID-19 PWA.
+</h4>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/victor-vas/covid-19-pwa">
 
-## Available Scripts
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/victor-vas/covid-19-pwa">
 
-In the project directory, you can run:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/victor-vas/covid-19-pwa">
 
-### `yarn start`
+  <a href="https://github.com/victor-vas/covid-19-pwa/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/victor-vas/covid-19-pwa">
+  </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="https://github.com/victor-vas/covid-19-pwa/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/victor-vas/covid-19-pwa">
+  </a>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <img alt="GitHub" src="https://img.shields.io/github/license/victor-vas/covid-19-pwa">
+</p>
 
-### `yarn test`
+<p align="center">
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+  <img alt="Calculator" src="https://res.cloudinary.com/dg4rnkej8/image/upload/v1605569199/portfolio/covid-19_byoxfb.jpg">
+</p>
 
-### `yarn build`
+<p align="center">
+  <a href="" target="_blank" rel="noopener noreferrer">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/dg4rnkej8/image/upload/v1604925542/github/demo-on-netlify_gzjnxa.png">
+  </a>
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :rocket: Technologies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project was developed at the [bootcamp "React Web Developer"](https://digitalinnovation.one/) with the following technologies:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-  [ReactJS](https://reactjs.org/)
+-  [TypeScript](https://www.typescriptlang.org/)
+-  [styled-components](https://www.styled-components.com/)
+-  [material-ui](https://material-ui.com/)
+-  [customize-cra](https://github.com/arackaf/customize-cra)
+-  [react-app-rewired](https://github.com/timarney/react-app-rewired#readme)
 
-### `yarn eject`
+## :information_source: How To Use
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+# Clone this repository
+$ git clone https://github.comh/victor-vas/covid-19-pwa covid-19-pwa
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Go into the repository
+$ cd covid-19-pwa
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Install dependencies
+$ yarn
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Run the app
+$ yarn start
+```
 
-## Learn More
+## :memo: License
+No licenses.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Made with ♥ by Victor Vasconcelos :wave: [See my linkedin!](https://www.linkedin.com/in/victor-vasconcelos-599b941a5/)
