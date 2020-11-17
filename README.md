@@ -47,8 +47,6 @@ This project was developed at the [bootcamp "React Web Developer"](https://digit
 -  [TypeScript](https://www.typescriptlang.org/)
 -  [styled-components](https://www.styled-components.com/)
 -  [material-ui](https://material-ui.com/)
--  [customize-cra](https://github.com/arackaf/customize-cra)
--  [react-app-rewired](https://github.com/timarney/react-app-rewired#readme)
 
 ## :information_source: How To Use
 
