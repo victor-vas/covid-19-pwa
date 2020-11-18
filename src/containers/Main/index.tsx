@@ -1,5 +1,6 @@
 import React, { memo, useState, useCallback, useEffect } from 'react';
 import api, { CountryData } from '../../config/api';
+import Board from './components/Board';
 import Panel from './components/Panel';
 import { MainContainer } from './styled';
 
@@ -37,6 +38,7 @@ const Main = () => {
           getCovidData={getCovidData}
         />
       </div>
+      <Board data={data} />
     </MainContainer>
   );
 };

@@ -2,7 +2,7 @@ import React from 'react';
 import { StylesProvider } from '@material-ui/styles';
 import { CssBaseline } from '@material-ui/core';
 
-import GlobalStyle from './styles/GlobalStyle';
+import GlobalStyle from './styles/global';
 import Main from './containers/Main/index';
 
 function App() {
