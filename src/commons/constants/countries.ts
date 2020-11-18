@@ -4,6 +4,12 @@ import GermanyFlag from '../../assets/images/germany.png';
 import ItalyFlag from '../../assets/images/italy.png';
 import UsaFlag from '../../assets/images/usa.png';
 
+export interface Country {
+  label: string;
+  value: string;
+  flag: string;
+}
+
 const COUNTRIES = [
   {
     label: 'Alemanha',
