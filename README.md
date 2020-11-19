@@ -30,11 +30,11 @@
 </p>
 
 <p align="center">
-  <img alt="Calculator" src="https://res.cloudinary.com/dg4rnkej8/image/upload/v1605569199/portfolio/covid-19_byoxfb.jpg">
+  <img alt="Informativo COVID-19" src="https://res.cloudinary.com/dg4rnkej8/image/upload/v1605569199/portfolio/covid-19_byoxfb.jpg">
 </p>
 
 <p align="center">
-  <a href="" target="_blank" rel="noopener noreferrer">
+  <a href="https://informativo-covid-19.netlify.app" target="_blank" rel="noopener noreferrer">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/dg4rnkej8/image/upload/v1604925542/github/demo-on-netlify_gzjnxa.png">
   </a>
 </p>
