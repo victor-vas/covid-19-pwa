@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
 import React, { memo } from 'react';
 import RefreshIcon from '../../../../assets/images/refresh.svg';
 import {
@@ -107,7 +108,8 @@ function Panel({
             </Select>
           </div>
         </div>
-        {navigatorHasShare?.length ? renderShareButton : renderCopyButton}
+        {/* @ts-ignore */}
+        {navigatorHasShare ? renderShareButton : renderCopyButton}
       </CardPanelContentStyled>
     </Card>
   );
